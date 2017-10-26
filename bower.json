@@ -1,0 +1,6 @@
+{
+  "name": "my-angular1-test",
+  "dependencies": {
+    "angular": "1.5.x"
+  }
+}
