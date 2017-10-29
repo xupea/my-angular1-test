@@ -1,6 +1,7 @@
 {
   "name": "my-angular1-test",
   "dependencies": {
-    "angular": "1.5.x"
+    "angular": "1.5.x",
+    "angular-mocks": "1.5.x"
   }
 }
